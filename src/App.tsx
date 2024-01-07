@@ -123,9 +123,15 @@ function App() {
               Software Engineer
             </span>
             <span className="flex space-x-6 text-gray-500 dark:text-[#A3ABB2]">
-              <GitHub />
-              <Twitter />
-              <LinkedIn />
+              <a href="https://github.com/asahelcode">
+                <GitHub />
+              </a>
+              <a href="https://twitter.com/asahelcode">
+                <Twitter />
+              </a>
+              <a href="https://www.linkedin.com/in/henry-nnamani-a71b74287/">
+                <LinkedIn />
+              </a>
             </span>
           </div>
         </div>
