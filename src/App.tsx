@@ -164,7 +164,7 @@ function App() {
           <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-2 gap-4">
             {activeBtn === "portfolio" &&
               projects?.map((project) => (
-                <div className="relative group rounded-md">
+                <div className="relative group rounded-md shadow-md">
                   <img
                     src={project.image}
                     alt=""
