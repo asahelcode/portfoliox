@@ -42,7 +42,7 @@ const projects = [
   {
     title: "Geegpay analytics dashboard",
     description: "",
-    image: "https://pin.it/4teUn9807",
+    image: "https://i.pinimg.com/736x/3e/f9/a8/3ef9a8326b636d57f7b52c1bb648abd9.jpg",
     link: "https://geegpay-challenge-seven.vercel.app/",
     technologies: ["NodeJS", "ReactJS", "GraphQL"],
   },
@@ -171,7 +171,7 @@ function App() {
                     className="lg:w-48 lg:h-48 w-full px-4 object-contain"
                   />
                   <div className="cursor-pointer dark:text-[#3D3D3D] absolute w-[92%] top-0 bottom-0 left-4 lg:w-[10rem] lg:h-[6.4rem] lg:top-11 lg:rounded-md lg:right-0 rounded-xl bg-[#FFE071E0] opacity-0 group-hover:opacity-80 transition-opacity duration-200 z-10 flex justify-center items-center flex-col">
-                    <span className="text-lg">{project.title}</span>
+                    <span className="text-sm">{project.title}</span>
                     <div>
                       <a
                         href={project.link}
