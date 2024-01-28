@@ -168,7 +168,7 @@ function App() {
                   <img
                     src={project.image}
                     alt=""
-                    className="lg:w-48 lg:h-48 w-full px-4 object-contain rounded-full w-[50%]"
+                    className="lg:w-48 lg:h-48 w-full px-4 object-contain rounded-md w-[50%]"
                   />
                   <div className="cursor-pointer dark:text-[#3D3D3D] absolute w-[92%] top-0 bottom-0 left-4 lg:w-[10rem] lg:h-[6.4rem] lg:top-11 lg:rounded-md lg:right-0 rounded-xl bg-[#FFE071E0] opacity-0 group-hover:opacity-80 transition-opacity duration-200 z-10 flex justify-center items-center flex-col">
                     <span className="text-xs font-medium text-center">{project.title}</span>
