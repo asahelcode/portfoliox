@@ -11,12 +11,6 @@ import { TbBrandNextjs } from "react-icons/tb";
 import { MdFileDownload } from "react-icons/md";
 import { IoLinkOutline } from "react-icons/io5";
 
-import Project1 from "../src/assets/Rectangle 1 (1).png";
-import Project2 from "../src/assets/Rectangle 1 (2).png";
-import Project3 from "../src/assets/Rectangle 1 (3).png";
-import Project4 from "../src/assets/Rectangle 1 (4).png";
-import Project5 from "../src/assets/Rectangle 1 (5).png";
-
 const skills = [
   {
     title: "NodeJS",
@@ -46,38 +40,10 @@ const skills = [
 
 const projects = [
   {
-    title: "Project 1",
+    title: "Geegpay analytics dashboard",
     description: "",
-    image: Project1,
-    link: "https://www.google.com",
-    technologies: ["NodeJS", "ReactJS", "GraphQL"],
-  },
-  {
-    title: "Project 2",
-    description: "",
-    image: Project2,
-    link: "https://www.google.com",
-    technologies: ["NodeJS", "ReactJS", "GraphQL"],
-  },
-  {
-    title: "Project 3",
-    description: "",
-    image: Project3,
-    link: "https://www.google.com",
-    technologies: ["NodeJS", "ReactJS", "GraphQL"],
-  },
-  {
-    title: "Project 4",
-    description: "",
-    image: Project4,
-    link: "https://www.google.com",
-    technologies: ["NodeJS", "ReactJS", "GraphQL"],
-  },
-  {
-    title: "Project 5",
-    description: "",
-    image: Project5,
-    link: "https://www.google.com",
+    image: "https://pin.it/4teUn9807",
+    link: "https://geegpay-challenge-seven.vercel.app/",
     technologies: ["NodeJS", "ReactJS", "GraphQL"],
   },
 ];
