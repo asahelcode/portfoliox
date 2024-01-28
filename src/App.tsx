@@ -103,7 +103,7 @@ function App() {
         </div>
 
         {/** */}
-        <div className="flex mx-5 px-10 lg:justify-between justify-around text-[#575757] dark:text-[#A3ABB2] font-poppins font-medium h-15 lg:gap-10">
+        <div className="flex mx-5 px-10 lg:justify-between xs:px-12 justify-around text-[#575757] dark:text-[#A3ABB2] font-poppins font-medium h-15 lg:gap-10">
           <div className="flex flex-col justify-center items-center w-[148px]">
             <span className="lg:text-xl text-lg">2</span>
             <span className="lg:text-center lg:text-lg text-sm text-center">
@@ -127,7 +127,7 @@ function App() {
         {/** */}
         <div className="flex lg:space-x-10 space-x-6 text-[#3D3D3D]">
           <button className="lg:px-10 px-7 lg:py-3 py-4 bg-[#FBD144] font-poppins font-medium flex justify-center items-center rounded-[10px]">
-            <span className="mr-4  dark:text-[#3D3D3D] text-sm lg:text-lg">
+            <span className="mr-4  dark:text-[#3D3D3D] text-sm lg:text-lg xs:text-xs">
               Download CV
             </span>
             <MdFileDownload className="text-gray-600" />
@@ -168,7 +168,7 @@ function App() {
                   <img
                     src={project.image}
                     alt=""
-                    className="lg:w-48 lg:h-48 w-full px-4 object-contain rounded-md w-[50%] shadow-md"
+                    className="lg:w-48 lg:h-48 w-full px-4 object-contain rounded-md w-[50%]"
                   />
                   <div className="cursor-pointer dark:text-[#3D3D3D] absolute w-[92%] top-0 bottom-0 left-4 lg:w-[10rem] lg:h-[6.4rem] lg:top-11 lg:rounded-md lg:right-0 rounded-md bg-[#FFE071E0] opacity-0 group-hover:opacity-80 transition-opacity duration-200 z-10 flex justify-center items-center flex-col">
                     <span className="text-xs font-medium text-center">{project.title}</span>
