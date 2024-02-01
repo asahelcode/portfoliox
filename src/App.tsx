@@ -46,6 +46,13 @@ const projects = [
     link: "https://geegpay-challenge-seven.vercel.app/",
     technologies: ["NodeJS", "ReactJS", "GraphQL"],
   },
+  {
+    title: "Andromedia",
+    description: "",
+    image: "https://i.pinimg.com/736x/31/0e/6c/310e6c050d93ee4da9f1f3e0eb290da3.jpg",
+    link: "https://andromedia.cc/",
+    technologies: ["NodeJS", "ReactJS", "GraphQL"],
+  },
 ];
 
 function App() {
