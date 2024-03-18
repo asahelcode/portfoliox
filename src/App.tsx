@@ -134,15 +134,15 @@ function App() {
         {/** */}
         <div className="flex lg:space-x-10 space-x-6 text-[#3D3D3D]">
           <button className="lg:px-10 px-7 lg:py-3 py-4 bg-[#FBD144] font-poppins font-medium flex justify-center items-center rounded-[10px]">
-            <a className="mr-4  dark:text-[#3D3D3D] text-sm lg:text-lg xs:text-xs" href="https://novoresume.com/file/pdf/resume/get/1707040691640fdd37f90b1fe11eea4d88d647b22cc0c5d4gj7thA2m68zhytmuhpnd1jgt4ecnnvva9qezw6tq66ydm3g4xaqv6c5yus9g9s8twn1znndpjx0oixq1id8c1Acg6szr5cvchnzey6oo8pst4q6bwrd9k2pz2u0cpvi6pbebk4gmh75zp3neem8hrg1vr2lmg890kszesAvppvj4lq4y2jz85enqn6vovwr17o">
+            <a className="mr-4  dark:text-[#3D3D3D] text-sm lg:text-lg xs:text-xs" href="https://flowcv.com/resume/oknhlbo7hv">
               Download CV
             </a>
             <MdFileDownload className="text-gray-600" />
           </button>
           <button className="lg:px-10 px-7 lg:py-3 py-4 bg-white dark:bg-[#171F26] flex justify-center items-center rounded-md">
-            <span className="dark:text-[#A3ABB2] lg:text-lg text-xs">
+            <a href="https://twitter.com/asahelcode" className="dark:text-[#A3ABB2] lg:text-lg text-xs">
               Contact me{" "}
-            </span>
+            </a>
           </button>
         </div>
 
