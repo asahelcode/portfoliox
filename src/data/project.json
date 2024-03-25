@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "title": "Geegpay analytics",
+    "description": "A project built with during geegpay's hackathon challenge for best analytics dashboard",
+    "image": "https://i.pinimg.com/736x/3e/f9/a8/3ef9a8326b636d57f7b52c1bb648abd9.jpg",
+    "link": "https://geegpay-challenge-seven.vercel.app/",
+    "github": "https://github.com/asahelcode/portfoliox",
+    "technologies": ["ReactJs", "TailwindCSS"]
+  },
+  {
+    "id": 1,
+    "title": "Andromedia",
+    "description": "Built this project with the team @Nanocodes during my 3 months Internship",
+    "image": "https://i.pinimg.com/736x/3e/f9/a8/3ef9a8326b636d57f7b52c1bb648abd9.jpg",
+    "link": "https://andromedia.cc/",
+    "github": "https://github.com/asahelcode/portfoliox",
+    "technologies": ["ReactJs", "TailwindCSS", "SWR", "React-Redux", "Socket IO"]
+  },
+  {
+    "id": 2,
+    "title": "Napss Record",
+    "description": "Contracted this projected by the Faculty president to build a record-like website to keep informations of past executives and their legacies",
+    "image": "https://i.pinimg.com/736x/3e/f9/a8/3ef9a8326b636d57f7b52c1bb648abd9.jpg",
+    "link": "https://napss.vercel.app",
+    "github": "https://github.com/asahelcode/portfoliox",
+    "technologies": ["ReactJs", "TailwindCSS", "Typescript", "Zustand", "GraphQL", "ExpressJs", "PostgreSQL", "Prisma"]
+  },
+  {
+    "id": 3,
+    "title": "QuizGrad",
+    "description": "I wasn't planning on reading for a course called CED342, so I decided to build a platform where students who read the textbook could post possible questions for lazy students like me",
+    "image": "https://i.pinimg.com/736x/3e/f9/a8/3ef9a8326b636d57f7b52c1bb648abd9.jpg",
+    "link": "https://quizgrad-eta.vercel.app/",
+    "github": "https://github.com/asahelcode/portfoliox",
+    "technologies": ["ReactJs", "TailwindCSS", "Typescript", "Zustand", "GraphQL", "ExpressJs", "PostgreSQL", "Prisma"]
+  }
+]
